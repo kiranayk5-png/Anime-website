@@ -119,13 +119,13 @@ footer {
   </div>
 
 
-  <div class="card" onclick="openVideo('5YqQ2X6r1xg')">
+  <div class="card" onclick="openVideo('yw78YldkK28')">
     <img src="https://i.pinimg.com/736x/0e/6d/6c/0e6d6cbd5910a6f358d3db4e0e7e41ff.jpg">
     <h3>Bleach</h3>
   </div>
 
 
-  <div class="card" onclick="openVideo('UQ4pFQ6b1aI')">
+  <div class="card" onclick="openVideo('hwkAbAKOfxk')">
     <img src="https://i.pinimg.com/736x/83/5f/f9/835ff9e34826c4ada4d36f0e0e3235f3.jpg">
     <h3>Black Clover</h3>
   </div>
